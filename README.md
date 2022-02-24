@@ -1,5 +1,5 @@
 <!--  #JBrowser  -->
-# JBrowser
+# JBrowser version 0.1.0
 
 <h3>[Software Version]</h3>
 
