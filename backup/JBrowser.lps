@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="50">
+      <Unit0>
+        <Filename Value="JBrowser.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="29"/>
+        <CursorPos X="55" Y="49"/>
+        <UsageCount Value="200"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="uMainForm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MainForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="1164"/>
+        <CursorPos X="117" Y="1174"/>
+        <UsageCount Value="200"/>
+        <Bookmarks Count="6">
+          <Item0 X="32" Y="1545" ID="5"/>
+          <Item1 X="9" Y="753" ID="9"/>
+          <Item2 X="4" Y="715" ID="3"/>
+          <Item3 Y="1303" ID="4"/>
+          <Item4 X="27" Y="1338" ID="1"/>
+          <Item5 X="27" Y="590" ID="2"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="uPreferences.pas"/>
+        <ComponentName Value="PreferencesFrm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="58"/>
+        <CursorPos X="34" Y="73"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="D:\Test\maintabsheetdrawing.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="mainTabsheetDrawing"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="38" Y="24"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="sqlite3db.pas"/>
+        <UnitName Value="Sqlite3DB"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="158"/>
+        <CursorPos X="45" Y="220"/>
+        <UsageCount Value="57"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\Componets\CEF4Delphi-master\source\uCEFApplicationCore.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="475"/>
+        <CursorPos X="16" Y="492"/>
+        <UsageCount Value="5"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\lazarus\components\lazutils\lazutf8classes.pas"/>
+        <UnitName Value="LazUTF8Classes"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="136"/>
+        <CursorPos X="27" Y="144"/>
+        <UsageCount Value="5"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\lazarus\lcl\include\canvas.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="85"/>
+        <CursorPos X="3" Y="88"/>
+        <UsageCount Value="5"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\SimpleOSRBrowser\usimplelazosrbrowser.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="958"/>
+        <CursorPos X="32" Y="970"/>
+        <UsageCount Value="5"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="Framework_CEF3_64bit.lrs"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="17"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="D:\packages\lib\x86_64-win64\cef3fw64bit.ppu"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="..\..\1.SqliteDB\1.0.0.1\unit1.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="372"/>
+        <CursorPos X="21" Y="381"/>
+        <UsageCount Value="7"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="uMainForm.lfm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="198"/>
+        <CursorPos X="65" Y="247"/>
+        <UsageCount Value="7"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\lazarus\lazarus\lcl\lclclasses.pp"/>
+        <UnitName Value="LCLClasses"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="118"/>
+        <CursorPos Y="138"/>
+        <UsageCount Value="1"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="..\MiniBrowser\uMiniBrowser.pas"/>
+        <ComponentName Value="MiniBrowserFrm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="289"/>
+        <CursorPos X="29" Y="383"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="D:\Componets\CEF4Delphi-master\source\uCEFMiscFunctions.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="19"/>
+        <CursorPos X="23" Y="38"/>
+        <UsageCount Value="7"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\lazarus\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3455"/>
+        <CursorPos Y="3476"/>
+        <UsageCount Value="9"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\lazarus\lazarus\lcl\include\buttoncontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="36"/>
+        <CursorPos Y="56"/>
+        <UsageCount Value="1"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="C:\lazarus\lazarus\lcl\include\buttons.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="150"/>
+        <CursorPos Y="170"/>
+        <UsageCount Value="1"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="C:\lazarus\lazarus\lcl\include\wincontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5654"/>
+        <CursorPos X="42" Y="5664"/>
+        <UsageCount Value="8"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="C:\lazarus\lazarus\lcl\lclmessageglue.pas"/>
+        <UnitName Value="LCLMessageGlue"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="91"/>
+        <CursorPos Y="123"/>
+        <UsageCount Value="6"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="C:\lazarus\lazarus\lcl\interfaces\win32\win32callback.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2650"/>
+        <CursorPos Y="2681"/>
+        <UsageCount Value="6"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="D:\Componets\CEF4Delphi-master\source\uCEFChromiumCore.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2065"/>
+        <CursorPos X="31" Y="2078"/>
+        <UsageCount Value="9"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="C:\lazarus\lazarus\lcl\comctrls.pp"/>
+        <UnitName Value="ComCtrls"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="14" Y="24"/>
+        <UsageCount Value="2"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="..\202009_Test02\uMainForm.pas"/>
+        <ComponentName Value="MainForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="244"/>
+        <CursorPos X="48" Y="257"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="C:\lazarus\lazarus\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3317"/>
+        <CursorPos Y="3350"/>
+        <UsageCount Value="6"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="C:\lazarus\lazarus\lcl\include\customnotebook.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1105"/>
+        <CursorPos Y="1130"/>
+        <UsageCount Value="5"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="C:\lazarus\lazarus\lcl\interfaces\win32\win32pagecontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="323"/>
+        <CursorPos Y="343"/>
+        <UsageCount Value="4"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="C:\lazarus\lazarus\lcl\interfaces\win32\win32object.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="380"/>
+        <CursorPos X="76" Y="398"/>
+        <UsageCount Value="4"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="D:\Componets\CEF4Delphi-master\source\uCEFApplicationCore.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1005"/>
+        <CursorPos Y="1024"/>
+        <UsageCount Value="1"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="C:\lazarus\lazarus\lcl\include\application.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2213"/>
+        <CursorPos X="20" Y="2217"/>
+        <UsageCount Value="1"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="C:\lazarus\lazarus\components\lazutils\laztracer.pas"/>
+        <UnitName Value="LazTracer"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="31"/>
+        <CursorPos X="13" Y="35"/>
+        <UsageCount Value="3"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="C:\lazarus\lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1901"/>
+        <CursorPos X="61" Y="1926"/>
+        <UsageCount Value="2"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="46"/>
+        <CursorPos X="54" Y="48"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="..\..\3.Pagecontrol_Memo\pagetabmemos.pas"/>
+        <ComponentName Value="PageTabMemoF"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="PageTabMemos"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="57"/>
+        <CursorPos X="51" Y="71"/>
+        <UsageCount Value="3"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="C:\lazarus\lazarus\lcl\include\tabsheet.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="32" Y="13"/>
+        <UsageCount Value="4"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="C:\lazarus\lazarus\components\lazreport\source\lr_class.pas"/>
+        <UnitName Value="LR_Class"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="11825"/>
+        <CursorPos X="10" Y="11827"/>
+        <UsageCount Value="9"/>
+      </Unit36>
+      <Unit37>
+        <Filename Value="..\202009_Test03\unit1.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <CursorPos X="36" Y="16"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit37>
+      <Unit38>
+        <Filename Value="..\..\1.SqliteDB\2.0.0.0\unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="389"/>
+        <CursorPos X="36" Y="401"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit38>
+      <Unit39>
+        <Filename Value="backup\uMainForm.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="18" Y="18"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit39>
+      <Unit40>
+        <Filename Value="D:\__Backup\TabbedBrowser\1.0.0.3\2020-11-23-133747\uMainForm.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="22" Y="19"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit40>
+      <Unit41>
+        <Filename Value="C:\lazarus\lazarus\components\lazreport\samples\editor\maincalleditor.pas"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="14"/>
+        <CursorPos X="39" Y="46"/>
+        <UsageCount Value="9"/>
+      </Unit41>
+      <Unit42>
+        <Filename Value="C:\lazarus\lazarus\components\lazreport\samples\editor\custompreview.pas"/>
+        <ComponentName Value="frmCustomPreview"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="49" Y="23"/>
+        <UsageCount Value="9"/>
+      </Unit42>
+      <Unit43>
+        <Filename Value="C:\lazarus\lazarus\components\lazreport\samples\ChildBand_Example\unit1.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="32"/>
+        <CursorPos X="44" Y="69"/>
+        <UsageCount Value="9"/>
+      </Unit43>
+      <Unit44>
+        <Filename Value="C:\lazarus\lazarus\components\lazreport\samples\stringgrid\unit1.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="72"/>
+        <CursorPos Y="72"/>
+        <UsageCount Value="9"/>
+      </Unit44>
+      <Unit45>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3968"/>
+        <CursorPos X="73" Y="3978"/>
+        <UsageCount Value="10"/>
+      </Unit45>
+      <Unit46>
+        <Filename Value="C:\lazarus\components\tachart\tatextelements.pas"/>
+        <UnitName Value="TATextElements"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="68"/>
+        <CursorPos X="103" Y="94"/>
+        <UsageCount Value="10"/>
+      </Unit46>
+      <Unit47>
+        <Filename Value="C:\lazarus\components\sparta\mdi\source\sparta_multiplyresizer.pas"/>
+        <UnitName Value="sparta_MultiplyResizer"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="62" Y="7"/>
+        <UsageCount Value="10"/>
+      </Unit47>
+      <Unit48>
+        <Filename Value="C:\lazarus\components\lazreport\source\addons\pdfexport\lr_e_pdf.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="505"/>
+        <CursorPos X="3" Y="540"/>
+        <UsageCount Value="10"/>
+      </Unit48>
+      <Unit49>
+        <Filename Value="C:\lazarus\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit49>
+    </Units>
+    <JumpHistory Count="28" HistoryIndex="27">
+      <Position1>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="712" Column="2" TopLine="673"/>
+      </Position1>
+      <Position2>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="716" Column="28" TopLine="678"/>
+      </Position2>
+      <Position3>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="718" Column="15" TopLine="680"/>
+      </Position3>
+      <Position4>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="751" Column="28" TopLine="725"/>
+      </Position4>
+      <Position5>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="753" Column="13" TopLine="725"/>
+      </Position5>
+      <Position6>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="1014" Column="95" TopLine="991"/>
+      </Position6>
+      <Position7>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="1178" Column="86" TopLine="1161"/>
+      </Position7>
+      <Position8>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="1190" Column="72" TopLine="1161"/>
+      </Position8>
+      <Position9>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="1223" Column="31" TopLine="1200"/>
+      </Position9>
+      <Position10>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="1276" Column="2" TopLine="1236"/>
+      </Position10>
+      <Position11>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="1299" TopLine="1270"/>
+      </Position11>
+      <Position12>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="1302" Column="30" TopLine="1270"/>
+      </Position12>
+      <Position13>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="1304" Column="25" TopLine="1270"/>
+      </Position13>
+      <Position14>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="1307" Column="30" TopLine="1270"/>
+      </Position14>
+      <Position15>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="1372" Column="97" TopLine="1347"/>
+      </Position15>
+      <Position16>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="1294" Column="117" TopLine="1269"/>
+      </Position16>
+      <Position17>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="1277" Column="24" TopLine="1270"/>
+      </Position17>
+      <Position18>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="20" Column="99" TopLine="13"/>
+      </Position18>
+      <Position19>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="10" Column="122"/>
+      </Position19>
+      <Position20>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="18" Column="112" TopLine="7"/>
+      </Position20>
+      <Position21>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="71" Column="131"/>
+      </Position21>
+      <Position22>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="54" Column="73" TopLine="37"/>
+      </Position22>
+      <Position23>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="50" Column="91" TopLine="37"/>
+      </Position23>
+      <Position24>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="553" Column="3" TopLine="540"/>
+      </Position24>
+      <Position25>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="637" Column="2" TopLine="601"/>
+      </Position25>
+      <Position26>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="677" TopLine="666"/>
+      </Position26>
+      <Position27>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="1275" TopLine="1244"/>
+      </Position27>
+      <Position28>
+        <Filename Value="uMainForm.pas"/>
+        <Caret Line="1248" Column="70" TopLine="1243"/>
+      </Position28>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="MainForm.URLCbx.Text"/>
+      </Item>
+      <Item>
+        <Expression Value="TempChromium.DocumentURL"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
